@@ -4,7 +4,7 @@ Hi 👋 My name is Vinny Champeau
 Python Developer
 ----------------
 
-I am a python developer who is passionate about educational technology. I have used technology to help me learn spoken languages for over 10 years. Before learning to code, I studied spoken languages like Japanese and Spanish. Technology has always helped me learn better, faster and more efficiently. I continue to use similar learning methods to expand my knowledge of coding in python. I continue to work as an online language teacher while developing my educational products. I'd like to join a team of professional programmers in order have the opportunity to learn new skills and work on large-scale projects.
+I am a python developer who is passionate about educational technology. I have used technology to help me learn spoken languages for over 10 years. Before learning to code, I studied languages like Japanese and Spanish. Technology has always helped me learn better, faster and more efficiently. I continue to work as an online language teacher while developing my educational products which can be found on my website/blog AnkiMaster.com. I'd like to join a team of professional programmers in order have the opportunity to learn new skills and work on large-scale projects.
 
 * 🌍  I'm based in Wisconsin
 * 🖥️  See my portfolio at [Developer Portfolio](http://ankimaster.com/developer-portfolio/)
